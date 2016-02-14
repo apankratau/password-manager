@@ -1,0 +1,9 @@
+{
+  "name": "password-manager",
+  "description": "Password Manager",
+  "version": "0.0.1",
+  "dependencies": {
+    "bower": "^1.7.7",
+    "express": "^4.13.4"
+  }
+}
